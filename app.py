@@ -9,7 +9,6 @@ from utils import (
     get_word_stats,
     pick_top_n_bigrams,
     pick_top_n_trigrams,
-    pick_top_n_zipf_deviation,
 )
 
 

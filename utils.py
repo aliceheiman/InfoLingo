@@ -23,11 +23,11 @@ from collections import Counter
 from nltk.corpus import stopwords
 import streamlit as st
 
-stop_words = set(stopwords.words("english"))
-
+nltk.download("stopwords")
 nltk.download("punkt_tab")
 nltk.download("brown")
 
+stop_words = set(stopwords.words("english"))
 ###################################
 # File Handling Code
 ###################################
