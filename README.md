@@ -2,7 +2,7 @@
   <img src="assets/logo.png" alt="Infolingo logo" width="200px" />
 </p>
 
-# 🎲 Infolingo – Efficient Vocabulary Selection for Foreign-Language Learning
+# 🌏 Infolingo – Efficient Vocabulary Selection for Foreign-Language Learning
 
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg) [![MIT license](https://img.shields.io/badge/License-MIT-green.svg)](https://lbesson.mit-license.org/)
 
