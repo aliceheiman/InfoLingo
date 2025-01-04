@@ -3,6 +3,7 @@ from infolingo import Infolingo, tokenize_text
 
 import nltk
 nltk.download('brown')
+nltk.download('punkt_tab')
 
 @st.cache_data
 def get_infolingo(language: str = "english"):
