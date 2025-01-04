@@ -134,7 +134,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Changelog
 
-#### 1.0.1
+#### 1.1.0
 Update README.md and links.
 
 ### 1.0.0
