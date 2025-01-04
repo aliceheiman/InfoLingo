@@ -1,8 +1,8 @@
 [project]
 name = "infolingo"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
-  { name="Alice Heiman", email="kod@heiman.se" },
+  { name="Alice Heiman", email="aheiman@stanford.edu" },
 ]
 description = "Efficient Vocabulary Selection for Foreign-Language Learning."
 readme = "README.md"

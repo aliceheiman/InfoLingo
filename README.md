@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Infolingo logo" width="200px" />
+  <img src="https://github.com/aliceheiman/infolingo/blob/main/assets/logo.png" alt="Infolingo logo" width="200px" />
 </p>
 
 # 🌏 Infolingo – Efficient Vocabulary Selection for Foreign-Language Learning
@@ -35,7 +35,7 @@ streamlit run app.py
 You should then see a locally hosted website like this:
 
 <p align="center">
-  <img src="assets/infolingo-front.png" alt="Infolingo demo" width="500px" />
+  <img src="https://github.com/aliceheiman/infolingo/blob/main/assets/infolingo-front.png" alt="Infolingo demo" width="500px" />
 </p>
 
 ## Usage
