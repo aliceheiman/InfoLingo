@@ -1,7 +1,8 @@
 import streamlit as st
-
 from infolingo import Infolingo, tokenize_text
 
+import nltk
+nltk.download('brown')
 
 @st.cache_data
 def get_infolingo(language: str = "english"):
